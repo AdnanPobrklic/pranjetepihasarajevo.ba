@@ -400,8 +400,8 @@ function App() {
                         Radno vrijeme
                     </h3>
                     <ul className="flex flex-col gap-2 md:order-1 text-[14px] pt-2">
-                        <li>Radni dani / subota - 08:00h - 21:00h</li>
-                        <li>Nedelja - ne radimo</li>
+                        <li>Svaki dan - 08:00h - 21:00h</li>
+                    
                     </ul>
                 </div>
 
